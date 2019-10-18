@@ -1,4 +1,4 @@
-
+/* This css changes the html format for reference html. */
 body
 {
 	font-family: "Georgia", "Arial Narrow";
@@ -9,6 +9,7 @@ body
 h1
 {
 	font-size: 40px;
+	font-family: "Impact", "Arial Narrow";
 }
 
 p.onLink
