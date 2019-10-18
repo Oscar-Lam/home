@@ -1,4 +1,4 @@
-/* This css changes the html format. */
+/* This css changes the format for how do you play Pokemon Masters html. */
 body
 {
 	font-family: "Georgia", "Arial Narrow";
@@ -10,6 +10,7 @@ h1
 {
 	text-align: center;
 	font-size: 40px;
+	font-family: "Impact", "Arial Narrow";
 }
 
 h2
