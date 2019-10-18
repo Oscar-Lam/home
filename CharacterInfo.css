@@ -1,4 +1,4 @@
-
+/* This css changes the html format for Character Info html. */
 body
 {
 	font-family: "Georgia", "Arial Narrow";
@@ -10,6 +10,7 @@ h1
 {
 	font-size: 40px;
 	text-align: center;
+	font-family: "Impact", "Arial Narrow";
 }
 
 h2
