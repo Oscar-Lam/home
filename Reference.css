@@ -12,27 +12,6 @@ h1
 	font-family: "Impact", "Arial Narrow";
 }
 
-p.onLink
-{
-	color: black;
-	font-family: "Impact", "Arial Narrow";
-}
-
-#link1
-{
-	color: blue;
-}
-
-#link2
-{
-	color: red;
-}
-
-#link3
-{
-	color: green;
-}
-
 #navbar
 {
 	list-style-type: none;
